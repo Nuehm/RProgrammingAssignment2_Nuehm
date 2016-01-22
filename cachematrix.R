@@ -44,7 +44,7 @@ cacheSolve <- function(x, ...) {
 }
 
 ## Note: The two functions can be used as follows:
-## source("ProgrammingAssignment2_HR.R")
+## source("cachematrix.R")
 ## SpecialMatrix <- makeCacheMatrix(M)
 ## cacheSolve(SpecialMatrix) (first time)
 ## --> the matrix M (which must have been defined before) is calculated
